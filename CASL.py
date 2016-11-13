@@ -1,9 +1,6 @@
 # coding: utf-8
 
-import sys
-
 input_data = []
-output_data = []
 
 ##### Input Data #####
 while(True):
